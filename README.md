@@ -1,2 +1,1 @@
-# Web-Scrapping
-Scrap Data from Ambition Box Website.
+# Web-Scrapping Ambition-Box Website using Python and BeautifulSoup.
